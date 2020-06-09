@@ -1,0 +1,3 @@
+Para probar el archivo se requiere que las imagenes de prueba se encuentrene en el bucket
+El bucket utilizado se reemplaza en la linea 107 bucket='bucketedo'
+El nombre de la imagen de control por defecto es Control.png, tal como sale en la carpeta de pruebas
