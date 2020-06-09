@@ -1,0 +1,66 @@
+
+Imagen de control: Control.png
+Imagen de prueba: Control.png
+Resultado: True
+Fecha: 2020-06-09 13:54:19.774794
+
+Imagen de control: Control.png
+Imagen de prueba: t02.png
+Resultado: True
+Fecha: 2020-06-09 13:55:44.649569
+
+Imagen de control: Control.png
+Imagen de prueba: t03.png
+Resultado: False
+Fecha: 2020-06-09 13:58:20.577923
+
+Imagen de control: Control.png
+Imagen de prueba: t04.png
+Resultado: False
+Fecha: 2020-06-09 13:58:45.772377
+
+Imagen de control: Control.png
+Imagen de prueba: t05.png
+Resultado: True
+Fecha: 2020-06-09 13:59:19.810520
+
+Imagen de control: Control.png
+Imagen de prueba: t06.png
+Resultado: False
+Fecha: 2020-06-09 14:00:34.698876
+
+Imagen de control: Control.png
+Imagen de prueba: t07.png
+Resultado: False
+Fecha: 2020-06-09 14:00:59.775875
+
+Imagen de control: Control.png
+Imagen de prueba: t08.png
+Resultado: False
+Fecha: 2020-06-09 14:01:31.026557
+
+Imagen de control: Control.png
+Imagen de prueba: t09.jpg
+Resultado: False
+Fecha: 2020-06-09 14:02:23.030153
+
+Imagen de control: Control.png
+Imagen de prueba: t10.png
+Resultado: False
+Fecha: 2020-06-09 14:02:54.777837
+
+Imagen de control: Control.png
+Imagen de prueba: t11.jpg
+Resultado: False
+Fecha: 2020-06-09 14:03:39.053963
+
+Imagen de control: Control.png
+Imagen de prueba: t12.png
+Resultado: True
+Fecha: 2020-06-09 14:04:13.277025
+
+Imagen de control: Control.png
+Imagen de prueba: t13.png
+Resultado: False
+Fecha: 2020-06-09 14:04:36.899251
+
